@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amazomTesting.iml" filepath="$PROJECT_DIR$/.idea/modules/amazomTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amazomTesting_main.iml" filepath="$PROJECT_DIR$/.idea/modules/amazomTesting_main.iml" group="amazomTesting" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amazomTesting_test.iml" filepath="$PROJECT_DIR$/.idea/modules/amazomTesting_test.iml" group="amazomTesting" />
+    </modules>
+  </component>
+</project>

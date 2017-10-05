@@ -1,0 +1,4 @@
+skipbutton,com.amazon.mShop.android.shopping:id/skip_sign_in_button
+selectsearch,com.amazon.mShop.android.shopping:id/search_edit_text
+entertext,com.amazon.mShop.android.shopping:id/rs_search_src_text
+result,com.amazon.mShop.android.shopping:id/rs_results_count_text
